@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afigueroa1973
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Java and Python
+- 🌱 I’m currently learning ...Java, Python and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
